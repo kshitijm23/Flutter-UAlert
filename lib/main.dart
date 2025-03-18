@@ -21,7 +21,7 @@ class UrbanAlertApp extends StatelessWidget {
   }
 }
 
-// Shared storage for reported events
+// Shaed storage for reported events
 class EventStorage {
   static final List<Map<String, String>> reportedEvents = [];
 }
